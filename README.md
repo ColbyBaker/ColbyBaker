@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ColbyBaker
-- 👀 I’m interested in learning more about Rust and Go
+- 👀 I’m interested in learning more about Linux / embedded Linux.
 - 🌱 I’m currently learning React Native and Raspberry Pi...everything!
 
-- 🤝 I’m looking to collaborate on anything fun!
+- 🤝 I’m looking to collaborate on embedded Linux projects.
 - 📫 Reach me at my email: Colby.baker25@gmail.com
 
 <!---
